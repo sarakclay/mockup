@@ -11,3 +11,5 @@
  10.) As a user, I want to link my ad for my diamond to my facebook, twitter, pinterest and other social media pages
  11.) As a visitor, I want to link diamonds I like to my facebook, twitter, pinterest and other social media pages
  12.) As a visitor, I want to email diamonds I like to my significant other and friends
+ Domain tables - https://docs.google.com/spreadsheet/ccc?key=0Apu6PJKSAyKIdHl1TTA5WldpWGFzNTZ0Qjk1cWFXdGc&usp=sharing
+ 
