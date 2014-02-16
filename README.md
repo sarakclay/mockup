@@ -13,6 +13,7 @@
  12.) As a visitor, I want to email diamonds I like to my significant other and friends
  Domain tables - https://docs.google.com/spreadsheet/ccc?key=0Apu6PJKSAyKIdHl1TTA5WldpWGFzNTZ0Qjk1cWFXdGc&usp=sharing
  
+Test
 
 <!DOCTYPE html>
 <html lang="en">
